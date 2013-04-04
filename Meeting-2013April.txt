@@ -1,0 +1,51 @@
+Inaugural Meeting: 3 April, 2013
+================================
+
+Location: Canyon's Redmond (WA)
+
+Facilitator: Ted Neward
+
+Slides:
+# Welcome!
+
+> - This is a group for people who like programming languages
+> - If you're looking for ...
+    - the fantasy baseball draft ...
+    - the March Madness bracketology ...
+    - Grandma's birthday party ...
+    - a quiet place for dinner ...
+> - ... you're in the wrong room. Nothing personal.
+
+# Agenda
+
+- Group Vision
+- Introductions
+- Logistics
+- Open Discussion
+
+# Group Vision
+
+> - "To be a place where people who like exploring programming languages--both building them and using them--can hang out and talk shop with people not normally in their professional social circles..."
+> - "... and combine that with food and beer."
+
+# Introductions
+
+- Name
+- Place and role of employment
+- Languages/platforms you use
+- Languages/platforms you're interested in
+- Things you'd be willing to speak on
+- Desires for the group
+
+# Logistics
+
+- Why now?
+- Why here? (Why not a conference room?)
+    - Please order food! And/or beer!
+    - Please tip the wait staff, too.
+- Future plans
+    - Speakers and topics
+    - Events
+
+
+
