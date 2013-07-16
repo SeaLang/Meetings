@@ -18,7 +18,18 @@ types are capitalized by convention; types cannot be null valued, unless made nu
 
 Incorporates some object features, some functional features, makes a few opinionated decisions of its own (limited generics implementation, for example)
 
+Can act as a bridge between Java and .NET, perhaps?
+
 "const class" create classes of entirely immutable elements/fields
+
+The use of "it" blocks and closures are vaguely reminiscent of languages that have a "with" keyword (a la VB)
+
+Exception-handling is similar to most languages (try/catch/finally)
+
+Tales: web framework for Fantom, similar to Scala's Play! Framework
+
+Inherit from Page to create a statically-compiled Web page
+
 
 
 
